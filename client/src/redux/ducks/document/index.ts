@@ -1,0 +1,1 @@
+export { default as DocumentSlice } from './DocumentSlice';

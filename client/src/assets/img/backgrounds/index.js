@@ -1,0 +1,1 @@
+export {default as BackgroundStart} from './backgroundHome.jpg';

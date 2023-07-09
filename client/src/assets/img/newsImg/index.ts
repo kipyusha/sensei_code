@@ -1,0 +1,1 @@
+export {default as news1} from './sm.code-1839406-1280.800.jpg';
